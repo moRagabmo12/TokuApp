@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toku_app/components/item.dart';
+import 'package:toku_app/components/itemCategory.dart';
 import 'package:toku_app/models/itemModel.dart';
 
 class familyNumberPage extends StatelessWidget {
